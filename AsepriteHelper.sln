@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsepriteHelper", "AsepriteHelper.csproj", "{DFA58150-BA9B-473E-8AF0-BE30D1C5EFDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA58150-BA9B-473E-8AF0-BE30D1C5EFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA58150-BA9B-473E-8AF0-BE30D1C5EFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA58150-BA9B-473E-8AF0-BE30D1C5EFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA58150-BA9B-473E-8AF0-BE30D1C5EFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
