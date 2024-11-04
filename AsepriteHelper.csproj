@@ -17,4 +17,20 @@
         <DebugType>None</DebugType>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include=".git-submodules\csharp-tool-kit\ToolKit\ToolKit.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AsepriteDotNet" Version="1.9.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="LICENSE" />
+      <None Remove=".csharpierrc.json" />
+      <None Remove=".gitmodules" />
+      <None Remove=".gitignore" />
+      <None Remove=".gitattributes" />
+    </ItemGroup>
+
 </Project>

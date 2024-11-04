@@ -1,0 +1,3 @@
+[submodule ".git-submodules/csharp-tool-kit"]
+	path = .git-submodules/csharp-tool-kit
+	url = https://github.com/pathmage-dev/csharp-tool-kit
